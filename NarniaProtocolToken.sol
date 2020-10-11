@@ -698,6 +698,6 @@ contract Narnia Protocol Token is ERC20 {
         ERC20('Narnia Protocol Token', 'NPT')
         public
     {
-        _mint(0x295eaEDdF37531d8Fa6DDE7D60A9060C1498D581, 6000000 * 10 ** uint(decimals()));
+        _mint(0x3bc2670859611Ecc072FF2E6431C5f2755EC1Fa1, 6000000 * 10 ** uint(decimals()));
     }
 }
